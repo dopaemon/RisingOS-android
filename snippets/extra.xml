@@ -28,8 +28,8 @@
   <!-- Packages -->
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" groups="pdk-fs" remote="evo" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs,sysui-studio" remote="evo" />
-  <project path="packages/modules/IntentResolver" name="packages_modules_IntentResolver" groups="pdk,sysui-studio" remote="evo" />
-  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="evo" />
+  <project path="packages/modules/IntentResolver" name="packages_modules_IntentResolver" revision="refs/heads/udc" groups="pdk,sysui-studio" remote="evo" />
+  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" revision="refs/heads/udc" groups="pdk-cw-fs,pdk-fs" remote="evo" />
 
   <!-- Platform -->
   <project path="platform_testing" name="platform_testing" groups="pdk-fs,pdk-cw-fs,cts,sysui-studio" remote="evo" />
