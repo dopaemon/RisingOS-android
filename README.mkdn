@@ -16,7 +16,7 @@ Getting Started
 
 lineage-22.2 hals:
 ```bash
-repo init -u https://github.com/RisingOS-Revived/android -b sixteen-aosp --git-lfs
+repo init -u https://github.com/dopaemon/RisingOS-android -b sixteen-aosp --git-lfs
 ```
 lineage-23.0 hals:
 ```bash
